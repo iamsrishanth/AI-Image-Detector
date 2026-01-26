@@ -55,7 +55,7 @@ StableGuard is an AI-powered application designed to detect whether a given imag
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/muhammad-fiaz/StableGuard.git
+    git clone https://github.com/iamsrishanth/AI-Image-Detector.git
     cd StableGuard
     ```
 
